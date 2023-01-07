@@ -1,4 +1,5 @@
 Sub stock_analysis():
+
     Dim lastRow As Long
     Dim totalVolume As LongLong
     Dim openPrice As Double

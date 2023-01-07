@@ -1,5 +1,5 @@
-Sub stock_analysis():
-
+    
+    Sub stock_analysis():
     Dim lastRow As Long
     Dim totalVolume As LongLong
     Dim openPrice As Double
@@ -90,6 +90,5 @@ Sub stock_analysis():
         Range("Q3").Value = biggestLoss
         Range("P4").Value = mostVolumeTicker
         Range("Q4").Value = mostVolume
-        
     Next ws
 End Sub

@@ -1,4 +1,39 @@
-    
+# VBA Challenge 
+
+Introduction
+Welcome to the VBA Challenge! In this project, I used VBA scripting to analyze stock market data. The goal was to loop through all the stocks for one year and output various information, including ticker symbol, yearly change, percentage change, and total stock volume.
+
+# Project Overview
+In this project, I used VBA scripting to automate the analysis of stock market data. The data was organized by date, ticker symbol, opening price, highest price, lowest price, closing price, and volume. The goal was to analyze the data for each stock and output the following information: ticker symbol, yearly change from opening price to closing price, percentage change from opening price to closing price, and total stock volume.
+
+# What I Did
+In this project, I performed the following tasks:
+
+Created a VBA script to loop through all the stocks for one year and output the required information.
+Used conditional formatting to highlight positive changes in green and negative changes in red.
+Calculated the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
+Created a summary report for each worksheet with the analyzed data and results.
+
+#Tools Used
+The following tools were used in this project:
+
+VBA scripting - for automating the analysis of stock market data
+Excel - for organizing and storing the data and creating the summary report
+GitHub - for version control and collaboration
+VSCode - for writing and editing markdown files
+
+#What I Learned
+Through this project, I gained experience in the following:
+
+VBA scripting and automation
+Data analysis and manipulation using Excel
+Conditional formatting and cell color coding
+Generating summary reports and data visualizations
+Collaborating on GitHub and using VSCode for writing and editing markdown files.
+
+# Conclusion
+In conclusion, the VBA Challenge allowed me to gain hands-on experience in automating the analysis of stock market data using VBA scripting. I was able to analyze the data for each stock and output the required information, including yearly change, percentage change, and total stock volume. This project also helped me develop my skills in data manipulation, conditional formatting, and generating summary reports.   
+   
     Sub stock_analysis():
     Dim lastRow As Long
     Dim totalVolume As LongLong

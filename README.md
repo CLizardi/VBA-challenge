@@ -1,8 +1,7 @@
+# VBA Challenge
 ![aditya-vyas-7ygsBEajOG0-unsplash](https://user-images.githubusercontent.com/52866379/237005408-fb5cfee8-62e9-41b9-914e-2e47d187bff9.jpg)
 
-# VBA Challenge 
-
-Introduction
+# Introduction
 Welcome to the VBA Challenge! In this project, I used VBA scripting to analyze stock market data. The goal was to loop through all the stocks for one year and output various information, including ticker symbol, yearly change, percentage change, and total stock volume.
 
 # Project Overview
@@ -11,27 +10,27 @@ In this project, I used VBA scripting to automate the analysis of stock market d
 # What I Did
 In this project, I performed the following tasks:
 
-Created a VBA script to loop through all the stocks for one year and output the required information.
-Used conditional formatting to highlight positive changes in green and negative changes in red.
-Calculated the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
-Created a summary report for each worksheet with the analyzed data and results.
+* Created a VBA script to loop through all the stocks for one year and output the required information.
+* Used conditional formatting to highlight positive changes in green and negative changes in red.
+* Calculated the stock with the greatest percent increase, greatest percent decrease, and greatest total volume.
+* Created a summary report for each worksheet with the analyzed data and results.
 
-#Tools Used
+# Tools Used
 The following tools were used in this project:
 
-VBA scripting - for automating the analysis of stock market data
-Excel - for organizing and storing the data and creating the summary report
-GitHub - for version control and collaboration
-VSCode - for writing and editing markdown files
+* VBA scripting - for automating the analysis of stock market data
+* Excel - for organizing and storing the data and creating the summary report
+* GitHub - for version control and collaboration
+* VSCode - for writing and editing markdown files
 
-#What I Learned
+# What I Learned
 Through this project, I gained experience in the following:
 
-VBA scripting and automation
-Data analysis and manipulation using Excel
-Conditional formatting and cell color coding
-Generating summary reports and data visualizations
-Collaborating on GitHub and using VSCode for writing and editing markdown files.
+* VBA scripting and automation
+* Data analysis and manipulation using Excel
+* Conditional formatting and cell color coding
+* Generating summary reports and data visualizations
+* Collaborating on GitHub and using VSCode for writing and editing markdown files.
 
 # Conclusion
 In conclusion, the VBA Challenge allowed me to gain hands-on experience in automating the analysis of stock market data using VBA scripting. I was able to analyze the data for each stock and output the required information, including yearly change, percentage change, and total stock volume. This project also helped me develop my skills in data manipulation, conditional formatting, and generating summary reports.   
